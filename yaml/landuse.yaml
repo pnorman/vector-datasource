@@ -15,6 +15,7 @@ global:
     mz_label_placement: {col: mz_label_placement}
     sport: {col: sport}
     religion: {col: religion}
+    denomination: {col: denomination}
     surface: {col: surface}
     natural: {col: natural}
     attraction: {col: attraction}
